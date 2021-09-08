@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lasar/dynalist-js#readme",
   "dependencies": {
+    "commander": "^8.1.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
